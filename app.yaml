@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: sahbibraham-javascript-worker-cb2
+package: sahbibraham/javascript-worker-cb2
